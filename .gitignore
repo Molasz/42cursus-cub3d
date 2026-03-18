@@ -1,0 +1,6 @@
+cub3D
+obj/
+*.o
+*.a
+*.d
+build/
